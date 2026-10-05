@@ -2,7 +2,7 @@
 
 A React application refactored from our Vanilla JavaScript Income Category Ledger for **Finals TLA 1**.
 
-- **GitHub Repository:** GitHub Repository: https://github.com/Larutin/TLA1-Project
+- **GitHub Repository:** GitHub Repository: https://github.com/clarutin230000001521/TLA1-Project
 
 ---
 
